@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BusBay</string>
+    <string name="arrival_title">Select departure or arrival</string>
+    <string name="destination_title">Select destination</string>
 </resources>
